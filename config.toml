@@ -1,8 +1,8 @@
 [Config]
 # App ID
-api_id = 2040
+api_id = "2040"
 # App Hash
-api_hash = b18441a1ff607e10a989891a5462e627
+api_hash = "b18441a1ff607e10a989891a5462e627"
 # Bot token
 token="token" 
 # Chat or user id that the bot will relay to
